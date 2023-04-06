@@ -1,0 +1,15 @@
+/Users/lisa/Desktop/ExL2/EX2/bin/Debug/net6.0/EX2
+/Users/lisa/Desktop/ExL2/EX2/bin/Debug/net6.0/EX2.deps.json
+/Users/lisa/Desktop/ExL2/EX2/bin/Debug/net6.0/EX2.runtimeconfig.json
+/Users/lisa/Desktop/ExL2/EX2/bin/Debug/net6.0/EX2.dll
+/Users/lisa/Desktop/ExL2/EX2/bin/Debug/net6.0/EX2.pdb
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.csproj.AssemblyReference.cache
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.AssemblyInfoInputs.cache
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.AssemblyInfo.cs
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.csproj.CoreCompileInputs.cache
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.dll
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/refint/EX2.dll
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.pdb
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/EX2.genruntimeconfig.cache
+/Users/lisa/Desktop/ExL2/EX2/obj/Debug/net6.0/ref/EX2.dll
